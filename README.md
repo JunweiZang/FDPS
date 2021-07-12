@@ -2,7 +2,7 @@
 
 This repository provides a guide to reproduce the results demonstrated in the following paper:
 
-Junwei Zang, Mohammad Shikh-Bahaei, 
+Junwei Zang, and Mohammad Shikh-Bahaei, 
 "Full Duplex Multiple Access Mechanism for Connected Vehicles Operating at Different Automation Levels in NR eV2X VANETs", 
 IEEE Transactions on Intelligent Transportation Systems.
 
@@ -13,8 +13,10 @@ In particular, we explain how the following proposed functions are implemented:
 3. Average latency performance analyser module
 4. Average collision duration analyser module
 5. The proposed FDPS protocol:
-    1) adaptive collision detection and avoidance algorithm
-    2) resource management and reservation module
-    3) transmission scheduling module
-    4) prioritised re-broadcast and scheduling module
-    5) internal and external collision resolution algorithms
+    (1) adaptive collision detection and avoidance algorithm
+    (2) resource management and reservation module
+    (3) transmission scheduling module
+    (4) prioritised re-broadcast and scheduling module
+    (5) internal and external collision resolution algorithms
+
+Due to this simulation platform's legal restrictions and license issues, the implementation codes will be licensed in the future.
