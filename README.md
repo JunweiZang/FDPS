@@ -1,6 +1,6 @@
 # Full Duplex Multiple Access Mechanism for Connected Vehicles Operating at Different Automation Levels in NR eV2X VANETs
 
-This repository provides a guide on how the customised simulation platform works, and how to reproduce the results demonstrated in the following paper:
+This repository provides a guide on how the simulation platform works, and how to reproduce the results demonstrated in the following paper:
 
 Junwei Zang, and Mohammad Shikh-Bahaei, 
 "Full Duplex Multiple Access Mechanism for Connected Vehicles Operating at Different Automation Levels in NR eV2X VANETs", 
