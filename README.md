@@ -10,6 +10,6 @@ In particular, we provide detailed steps of how to implement the following propo
 
 1. FD simultaneous broadcast and sensing, which is realised by an adaptive FD energy-based collision detection and avoidance algorithm.
 2. Internal collision resolution module (i.e. FCFS algorithm).
-3. Resource allocation and reservation module.
+3. Resource allocation/reservation and scheduling module.
 4. External collision resolution module (i.e. prioritised re-broadcast and scheduling).
 5. Average PDR/Latency/Collision Duration performance analyser module.
