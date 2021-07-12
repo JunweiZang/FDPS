@@ -10,6 +10,6 @@ In particular, we provide detailed steps of how to implement the following propo
 
 1. FD simultaneous broadcast and sensing, which is realised by an adaptive FD energy-based collision detection and avoidance algorithm.
 2. Average PDR/Latency/Collision Duration performance analyser modules.
-3. Resource management and reservation module.
+3. Resource allocation and reservation module.
 4. Transmission scheduling module.
 5. Prioritised re-broadcast and scheduling module.
