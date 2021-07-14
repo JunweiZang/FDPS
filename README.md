@@ -13,3 +13,5 @@ In particular, we provide detailed steps of how to implement the following propo
 3. Resource allocation/reservation and scheduling module.
 4. External collision resolution module (i.e. prioritised re-broadcast and scheduling).
 5. Average PDR/Latency/Collision Duration performance analyser module.
+
+Together with the workflow diagrams shown in the paper, codes can be implemented, and results can be reproduced.
