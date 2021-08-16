@@ -1,4 +1,4 @@
-# Full Duplex Multiple Access Mechanism for Connected Vehicles Operating at Different Automation Levels in NR eV2X VANETs
+# Full Duplex Multiple Access Mechanism for Connected Vehicles Operating at Different Autonomous Levels in NR eV2X VANETs
 
 This repository provides a guide on how to reproduce the results demonstrated in the following paper:
 
